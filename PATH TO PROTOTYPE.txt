@@ -1,0 +1,13 @@
+STRAT PROTOTYPE 1.0
+
+PATH TO PROTOTYPE APLLICATION: stratprotov1\build\windows\runner\Release\stratprotov1.exe
+
+TAKE NOTE:
+- This prototype is currently only compatible on Windows OS due to limited resources for the developer
+- This prototype currently has 2 Bugs
+	- A UI/Text Widget Bug that lasts around 20 seconds when quiz is in progress (It does not stop the game)
+	- A navigation bug
+
+Developer Details:
+Name - Leonardo Petrus
+Student Number - 217070418
